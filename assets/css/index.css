@@ -63,6 +63,8 @@ header video {
 /* -----------------------------Auto Suggestions----------------------------- */
 .search-box {
 	width: 75%;
+	color: #ff0505;
+	font-size: 16px;
 }
 .search-box ul {
 	box-shadow: 0px 1px 5px 3px rgba(255, 255, 255, 0.3);
@@ -127,8 +129,8 @@ header video {
 }
 /* -----------------------------Search Button----------------------------- */
 .search-btn {
-	background-color: var(--color-secondary); /* secondary */
-	color: var(--color-quaternary); /* quaternary */
+	background-color: rgb(14, 249, 65);/* secondary */
+	color: rgb(252, 5, 100); /* quaternary */
 	border: none;
 	border-radius: 0.5rem;
 	padding: 0.5rem 1rem;
